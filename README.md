@@ -1,5 +1,6 @@
 # Natural-Language-Processing
 
+https://stackoverflow.com/questions/57818526/python-nlp-identifying-the-tense-of-a-sentence-using-textblob-stanfordnlp-or-g/77072352#77072352
 https://www.kaggle.com/code/pabasar/present-continuous-sentences-into-simple-present
 
 https://github.com/PrithivirajDamodaran/Gramformer
