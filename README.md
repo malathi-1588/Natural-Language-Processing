@@ -10,3 +10,5 @@ https://medium.com/@reyhaneh.esmailbeigi/bert-gpt-and-bart-a-short-comparison-5d
 https://github.com/dharun-narayanan/Code-Mixed-Data
 
 https://colab.research.google.com/drive/10X-R4nIDPc_P9egafd4wnGK8s2nEy7Ra?usp=sharing  (llama finetuning)
+
+https://github.com/rishiagarwal2000/Active-to-Passive-Voice
